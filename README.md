@@ -58,8 +58,8 @@ total weight: 15
 removing edge (1-3, weight=1)
 
 components after removal:
-component 1:
-component 2:
+component 1: [0, 1, 2]
+component 2: [3, 4, 5, 6]
 
 replacement: (2-3, weight=4)
 
